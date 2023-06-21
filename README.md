@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahapara
 - 👀 I’m interested in Fronted development.
 - 🌱 I’m currently learning react js and next js.
-- 📫 How to reach me mahanizamani12345678@gmail.com
+- 📫 How to reach me mahapara2424@gmail.com
 
 <!---
 mahapara24/mahapara24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
