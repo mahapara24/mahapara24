@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahapara
 - 👀 I’m interested in Fronted development.
-- 🌱 I’m currently learning react js and next js.
+- 🌱 I’m currently learning react js.
 - 📫 How to reach me mahapara2424@gmail.com
 
 <!---
