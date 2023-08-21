@@ -11,7 +11,7 @@ I am Mahapara and I am currently doing Bachelor's in Information Technology. Cur
 <img align="left" alt="tailwind" width="30px" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"></img>
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="reactjs" width="30px"  src="https://devicon-website.vercel.app/api/react/original.svg"></img>
-<img align="left" alt="nextjs" width="30px"  src="https://devicon-website.vercel.app/api/nextjs/line.svg"></img>
+<img align="left" alt="nextjs" width="30px" src="https://devicon-website.vercel.app/api/nextjs/original.svg?color=%23FFFFFF"></img>
 <img align="left" alt="Node.js" width="30px"  src="https://devicon-website.vercel.app/api/nodejs/original.svg"></img> 
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
