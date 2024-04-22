@@ -2,7 +2,7 @@
 # 🌟 Mahapara
 
 ## **`CodeCraftress (Learner/Developer)`**
-Hello, I'm Mahapara, pursuing a Bachelor's in Information Technology. Currently, I'm focusing on mastering React.js to elevate my project development skills to a higher standard.
+Hello, I'm Mahapara, pursuing a Bachelor's in Information Technology. Currently, I'm focusing on learning techs to elevate my project development skills to a higher standard.
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
