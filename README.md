@@ -1,5 +1,5 @@
  
-# 🌟 Mahapara
+#  Mahapara
 
 ## **`CodeCraftress (Learner/Developer)`**
 Hello, I'm Mahapara, pursuing a Bachelor's in Information Technology. Currently, I'm focusing on learning techs to elevate my project development skills to a higher standard.
